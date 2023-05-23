@@ -1679,25 +1679,7 @@
       "vote_average": 7.4,
       "vote_count": 45
     },
-    {
-      "adult": false,
-      "backdrop_path": "/9MArKFeNR5DqjKHZJ0nwZGnQy4f.jpg",
-      "genre_ids": [
-        35
-      ],
-      "id": 301629,
-      "media_type": "movie",
-      "original_language": "en",
-      "original_title": "Addicted to Fresno",
-      "overview": "Two co-dependent sisters, a recovering sex addict and a lonely lesbian who work as hotel maids in Fresno, go to ludicrous lengths to cover up an accidental crime.",
-      "popularity": 7.469,
-      "poster_path": "/lFoDP8JBZFA0r0wMgPGvQyi6IrA.jpg",
-      "release_date": "2015-10-02",
-      "title": "Addicted to Fresno",
-      "video": false,
-      "vote_average": 5.3,
-      "vote_count": 88
-    },
+    
     {
       "adult": false,
       "backdrop_path": "/cxRWsIuSTmsSVkvkv2rbbASfwET.jpg",
